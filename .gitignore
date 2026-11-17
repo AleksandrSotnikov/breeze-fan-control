@@ -1,0 +1,18 @@
+# Generated build / release files
+.build/
+Breeze.app/
+dist/
+*.zip
+*.o
+*.dSYM/
+# macOS and editor state
+.DS_Store
+.AppleDouble
+.vscode/
+.idea/
+*.swp
+# Local credentials / configuration
+.env
+.env.*
+*.pem
+*.key
